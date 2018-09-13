@@ -1,0 +1,50 @@
+body{
+    margin-top: 70px;
+   background-image: url(https://images.unsplash.com/photo-1515792986754-46b27516ef30?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=836113ce8ea6ab1fa25cd4fa7ba3d5f0&auto=format&fit=crop&w=1868&q=80);
+   background-size: cover;
+   
+    color: #000;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(250, 248, 248);
+}
+
+.input-group {
+    margin-bottom: 10px;
+    height: 80px;
+    background-color: #fff;
+    border: 1px solid  lightgrey;
+    
+}
+  
+.form-control {
+
+    width: 50%;
+     
+}
+  
+.form-control::placeholder {
+    font-size: 0.8em;
+   
+    color:rgb(26, 25, 25);
+}
+  
+.input-center {
+  
+    width: 25%;
+}
+  
+.start {
+   
+    width: 15%;
+    border-right: 2px solid lightgrey;
+}
+  
+.answer {
+    margin: 0 0 0 10px;
+    border-right: 2px solid lightgrey;
+  
+}
+  
